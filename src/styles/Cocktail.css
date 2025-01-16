@@ -1,0 +1,24 @@
+.cocktail-search {
+  text-align: center;
+  margin: 20px;
+}
+
+.cocktail-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+
+.cocktail-card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  width: 200px;
+  text-align: center;
+  padding: 10px;
+}
+
+.cocktail-card img {
+  width: 100%;
+  border-radius: 8px;
+}
